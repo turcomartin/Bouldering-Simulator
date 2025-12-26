@@ -1,0 +1,5 @@
+{
+  "name": "Ascent: Bouldering Simulator",
+  "description": "A tactical bouldering simulator with physics-based stamina mechanics, custom level editor, and AI-powered route generation.",
+  "requestFramePermissions": []
+}
